@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="375"
+   height="812"
+   viewBox="0 0 375 812"
+   fill="none"
+   version="1.1"
+   id="svg51"
+   sodipodi:docname="書籍登録画面.svg"
+   inkscape:export-filename="書籍登録画面.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs51" />
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4371921"
+     inkscape:cx="47.314482"
+     inkscape:cy="214.65467"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g23" />
+  <!-- Background -->
+  <rect
+     width="375"
+     height="812"
+     fill="#F8F9FA"
+     id="rect1" />
+  <!-- Status Bar -->
+  <rect
+     width="375"
+     height="44"
+     fill="white"
+     id="rect2" />
+  <text
+     x="20"
+     y="28"
+     font-family="system-ui, sans-serif"
+     font-size="16"
+     font-weight="600"
+     fill="black"
+     id="text2">9:41</text>
+  <circle
+     cx="353"
+     cy="22"
+     r="8"
+     fill="#34C759"
+     id="circle2" />
+  <rect
+     x="348"
+     y="18"
+     width="10"
+     height="8"
+     rx="2"
+     fill="white"
+     id="rect3" />
+  <!-- Header -->
+  <rect
+     y="44"
+     width="375"
+     height="60"
+     fill="white"
+     id="rect4" />
+  <line
+     x1="0"
+     y1="104"
+     x2="375"
+     y2="104"
+     stroke="#E5E7EB"
+     stroke-width="1"
+     id="line4" />
+  <!-- Back Button -->
+  <g
+     transform="translate(20, 64)"
+     id="g4">
+    <circle
+       cx="10"
+       cy="10"
+       r="10"
+       fill="#F3F4F6"
+       id="circle4" />
+    <path
+       d="M13 7L7 13L13 19"
+       stroke="#6B7280"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path4" />
+  </g>
+  <!-- Page Title -->
+  <text
+     x="187.5"
+     y="84"
+     font-family="system-ui, sans-serif"
+     font-size="18"
+     font-weight="600"
+     fill="black"
+     text-anchor="middle"
+     id="text4">書籍を追加</text>
+  <!-- Main Content -->
+  <g
+     transform="translate(20, 124)"
+     id="g30">
+    <!-- ISBN Section -->
+    <rect
+       width="335"
+       height="100"
+       rx="12"
+       fill="white"
+       id="rect5" />
+    <rect
+       x="1"
+       y="1"
+       width="333"
+       height="98"
+       rx="11"
+       fill="none"
+       stroke="#E5E7EB"
+       stroke-width="1"
+       id="rect6" />
+    <text
+       x="20"
+       y="25"
+       font-family="system-ui, sans-serif"
+       font-size="14"
+       font-weight="500"
+       fill="#374151"
+       id="text6">ISBN</text>
+    <rect
+       x="20"
+       y="35"
+       width="235"
+       height="40"
+       rx="8"
+       fill="#F9FAFB"
+       stroke="#D1D5DB"
+       stroke-width="1"
+       id="rect7" />
+    <text
+       x="32"
+       y="58"
+       font-family="system-ui, sans-serif"
+       font-size="16"
+       fill="#9CA3AF"
+       id="text7">ISBNを入力または</text>
+    <!-- Camera Button -->
+    <rect
+       x="270"
+       y="35"
+       width="50"
+       height="40"
+       rx="8"
+       fill="#4F46E5"
+       id="rect8" />
+    <g
+       transform="translate(290, 50)"
+       id="g9">
+      <rect
+         x="-5"
+         y="-3"
+         width="10"
+         height="6"
+         rx="2"
+         fill="white"
+         id="rect9" />
+      <circle
+         cx="0"
+         cy="2"
+         r="3"
+         fill="none"
+         stroke="white"
+         stroke-width="1.5"
+         id="circle9" />
+    </g>
+    <!-- Basic Book Info -->
+    <g
+       transform="translate(0, 120)"
+       id="g18">
+      <rect
+         width="335"
+         height="200"
+         rx="12"
+         fill="white"
+         id="rect10" />
+      <rect
+         x="1"
+         y="1"
+         width="333"
+         height="198"
+         rx="11"
+         fill="none"
+         stroke="#E5E7EB"
+         stroke-width="1"
+         id="rect11" />
+      <!-- Title Input -->
+      <text
+         x="20"
+         y="25"
+         font-family="system-ui, sans-serif"
+         font-size="14"
+         font-weight="500"
+         fill="#374151"
+         id="text11">書籍タイトル *</text>
+      <rect
+         x="20"
+         y="30"
+         width="295"
+         height="40"
+         rx="8"
+         fill="#F9FAFB"
+         stroke="#D1D5DB"
+         stroke-width="1"
+         id="rect12" />
+      <text
+         x="32"
+         y="53"
+         font-family="system-ui, sans-serif"
+         font-size="16"
+         fill="#111827"
+         id="text12">プログラミング思考</text>
+      <!-- Author Input -->
+      <text
+         x="20"
+         y="90"
+         font-family="system-ui, sans-serif"
+         font-size="14"
+         font-weight="500"
+         fill="#374151"
+         id="text13">著者名 *</text>
+      <rect
+         x="20"
+         y="95"
+         width="295"
+         height="40"
+         rx="8"
+         fill="#F9FAFB"
+         stroke="#D1D5DB"
+         stroke-width="1"
+         id="rect13" />
+      <text
+         x="32"
+         y="118"
+         font-family="system-ui, sans-serif"
+         font-size="16"
+         fill="#111827"
+         id="text14">山田太郎</text>
+      <!-- Media Type -->
+      <text
+         x="20"
+         y="155"
+         font-family="system-ui, sans-serif"
+         font-size="14"
+         font-weight="500"
+         fill="#374151"
+         id="text15">媒体種別 *</text>
+      <g
+         transform="translate(20, 165)"
+         id="g17">
+        <rect
+           width="90"
+           height="30"
+           rx="15"
+           fill="#4F46E5"
+           id="rect15" />
+        <text
+           x="45"
+           y="20"
+           font-family="system-ui, sans-serif"
+           font-size="14"
+           font-weight="500"
+           fill="white"
+           text-anchor="middle"
+           id="text16">実本</text>
+        <rect
+           x="100"
+           width="90"
+           height="30"
+           rx="15"
+           fill="#F3F4F6"
+           id="rect16" />
+        <text
+           x="145"
+           y="20"
+           font-family="system-ui, sans-serif"
+           font-size="14"
+           font-weight="500"
+           fill="#6B7280"
+           text-anchor="middle"
+           id="text17">電子書籍</text>
+      </g>
+    </g>
+    <!-- Storage Location Section -->
+    <g
+       transform="translate(0, 340)"
+       id="g23">
+      <rect
+         width="335"
+         height="140"
+         rx="12"
+         fill="white"
+         id="rect18" />
+      <rect
+         x="1"
+         y="1"
+         width="333"
+         height="138"
+         rx="11"
+         fill="none"
+         stroke="#E5E7EB"
+         stroke-width="1"
+         id="rect19" />
+      <text
+         x="20"
+         y="25"
+         font-family="system-ui, sans-serif"
+         font-size="14"
+         font-weight="500"
+         fill="#374151"
+         id="text19">保管場所</text>
+      <rect
+         x="20"
+         y="30"
+         width="295"
+         height="40"
+         rx="8"
+         fill="#F9FAFB"
+         stroke="#D1D5DB"
+         stroke-width="1"
+         id="rect20" />
+      <text
+         x="32"
+         y="53"
+         font-family="system-ui, sans-serif"
+         font-size="16"
+         fill="#9CA3AF"
+         id="text20">本棚の場所を入力</text>
+      <!-- Photo Section -->
+      <text
+         x="20"
+         y="90"
+         font-family="system-ui, sans-serif"
+         font-size="14"
+         font-weight="500"
+         fill="#374151"
+         id="text21">保管場所写真</text>
+      <rect
+         x="25.893871"
+         y="96.893921"
+         width="57.420105"
+         height="37.175426"
+         rx="6.5622978"
+         fill="#f3f4f6"
+         stroke="#d1d5db"
+         stroke-width="1.02841"
+         stroke-dasharray="4, 4"
+         id="rect21" />
+      <g
+         transform="translate(55,116)"
+         id="g21">
+        <circle
+           cx="0"
+           cy="0"
+           r="6"
+           fill="#9ca3af"
+           id="circle21" />
+        <path
+           d="M -2.5,-1 0,1.5 2.5,-1"
+           stroke="#ffffff"
+           stroke-width="1.2"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path21" />
+      </g>
+      <text
+         x="105"
+         y="110"
+         font-family="system-ui, sans-serif"
+         font-size="12"
+         fill="#6B7280"
+         id="text22">写真を追加</text>
+      <text
+         x="105"
+         y="125"
+         font-family="system-ui, sans-serif"
+         font-size="12"
+         fill="#9CA3AF"
+         id="text23">(任意)</text>
+    </g>
+    <!-- Additional Info Section -->
+    <g
+       transform="translate(0, 500)"
+       id="g29">
+      <rect
+         width="335"
+         height="120"
+         rx="12"
+         fill="white"
+         id="rect23" />
+      <rect
+         x="1"
+         y="1"
+         width="333"
+         height="118"
+         rx="11"
+         fill="none"
+         stroke="#E5E7EB"
+         stroke-width="1"
+         id="rect24" />
+      <!-- Purchase Date -->
+      <text
+         x="20"
+         y="25"
+         font-family="system-ui, sans-serif"
+         font-size="14"
+         font-weight="500"
+         fill="#374151"
+         id="text24">購入日</text>
+      <rect
+         x="20"
+         y="30"
+         width="140"
+         height="40"
+         rx="8"
+         fill="#F9FAFB"
+         stroke="#D1D5DB"
+         stroke-width="1"
+         id="rect25" />
+      <text
+         x="32"
+         y="53"
+         font-family="system-ui, sans-serif"
+         font-size="16"
+         fill="#9CA3AF"
+         id="text25">日付を選択</text>
+      <!-- Purchase Price -->
+      <text
+         x="175"
+         y="25"
+         font-family="system-ui, sans-serif"
+         font-size="14"
+         font-weight="500"
+         fill="#374151"
+         id="text26">購入価格</text>
+      <rect
+         x="175"
+         y="30"
+         width="140"
+         height="40"
+         rx="8"
+         fill="#F9FAFB"
+         stroke="#D1D5DB"
+         stroke-width="1"
+         id="rect26" />
+      <text
+         x="187"
+         y="53"
+         font-family="system-ui, sans-serif"
+         font-size="16"
+         fill="#9CA3AF"
+         id="text27">¥価格を入力</text>
+      <!-- Reading Status -->
+      <text
+         x="20"
+         y="90"
+         font-family="system-ui, sans-serif"
+         font-size="14"
+         font-weight="500"
+         fill="#374151"
+         id="text28">読書状態</text>
+      <rect
+         x="20"
+         y="95"
+         width="295"
+         height="40"
+         rx="8"
+         fill="#F9FAFB"
+         stroke="#D1D5DB"
+         stroke-width="1"
+         id="rect28" />
+      <text
+         x="32"
+         y="118"
+         font-family="system-ui, sans-serif"
+         font-size="16"
+         fill="#111827"
+         id="text29">積読</text>
+      <path
+         d="M290 115L295 120L290 125"
+         stroke="#6B7280"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path29" />
+    </g>
+  </g>
+  <!-- Register Button -->
+  <rect
+     x="20"
+     y="720"
+     width="335"
+     height="48"
+     rx="24"
+     fill="#4F46E5"
+     id="rect30" />
+  <text
+     x="187.5"
+     y="748"
+     font-family="system-ui, sans-serif"
+     font-size="16"
+     font-weight="600"
+     fill="white"
+     text-anchor="middle"
+     id="text30">登録する</text>
+  <!-- Bottom Navigation -->
+  <rect
+     y="768"
+     width="375"
+     height="44"
+     fill="white"
+     id="rect31" />
+  <line
+     x1="0"
+     y1="768"
+     x2="375"
+     y2="768"
+     stroke="#E5E7EB"
+     stroke-width="1"
+     id="line31" />
+  <g
+     transform="translate(37.5, 782)"
+     id="g51">
+    <!-- 書庫 -->
+    <g
+       id="g35">
+      <rect
+         x="0"
+         y="0"
+         width="20"
+         height="16"
+         rx="2"
+         fill="#4F46E5"
+         id="rect32" />
+      <rect
+         x="2"
+         y="2"
+         width="16"
+         height="2"
+         fill="white"
+         id="rect33" />
+      <rect
+         x="2"
+         y="6"
+         width="16"
+         height="2"
+         fill="white"
+         id="rect34" />
+      <rect
+         x="2"
+         y="10"
+         width="16"
+         height="2"
+         fill="white"
+         id="rect35" />
+      <text
+         x="10"
+         y="26"
+         font-family="system-ui, sans-serif"
+         font-size="10"
+         fill="#4F46E5"
+         text-anchor="middle"
+         id="text35">書庫</text>
+    </g>
+    <!-- グループ -->
+    <g
+       transform="translate(75, 0)"
+       id="g37">
+      <circle
+         cx="10"
+         cy="8"
+         r="8"
+         fill="#9CA3AF"
+         id="circle35" />
+      <circle
+         cx="6"
+         cy="6"
+         r="2"
+         fill="white"
+         id="circle36" />
+      <circle
+         cx="14"
+         cy="6"
+         r="2"
+         fill="white"
+         id="circle37" />
+      <path
+         d="M4 12C4 10 6 9 10 9C14 9 16 10 16 12"
+         stroke="white"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         id="path37" />
+      <text
+         x="10"
+         y="26"
+         font-family="system-ui, sans-serif"
+         font-size="10"
+         fill="#9CA3AF"
+         text-anchor="middle"
+         id="text37">グループ</text>
+    </g>
+    <!-- チャレンジ -->
+    <g
+       transform="translate(150, 0)"
+       id="g38">
+      <circle
+         cx="10"
+         cy="8"
+         r="8"
+         fill="#9CA3AF"
+         id="circle38" />
+      <path
+         d="M6 8L9 11L14 6"
+         stroke="white"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path38" />
+      <text
+         x="10"
+         y="26"
+         font-family="system-ui, sans-serif"
+         font-size="10"
+         fill="#9CA3AF"
+         text-anchor="middle"
+         id="text38">チャレンジ</text>
+    </g>
+    <!-- 設定 -->
+    <g
+       transform="translate(225, 0)"
+       id="g40">
+      <circle
+         cx="10"
+         cy="8"
+         r="8"
+         fill="#9CA3AF"
+         id="circle39" />
+      <circle
+         cx="10"
+         cy="8"
+         r="3"
+         fill="none"
+         stroke="white"
+         stroke-width="1.5"
+         id="circle40" />
+      <path
+         d="M10 2V4M10 12V14M18 8H16M4 8H2M15.5 4.5L14.1 5.9M7.9 10.1L6.5 11.5M15.5 11.5L14.1 10.1M7.9 5.9L6.5 4.5"
+         stroke="white"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         id="path40" />
+      <text
+         x="10"
+         y="26"
+         font-family="system-ui, sans-serif"
+         font-size="10"
+         fill="#9CA3AF"
+         text-anchor="middle"
+         id="text40">設定</text>
+    </g>
+    <!-- その他 -->
+    <g
+       transform="translate(300, 0)"
+       id="g50">
+      <circle
+         cx="10"
+         cy="8"
+         r="8"
+         fill="#9CA3AF"
+         id="circle41" />
+      <circle
+         cx="6"
+         cy="5"
+         r="1"
+         fill="white"
+         id="circle42" />
+      <circle
+         cx="10"
+         cy="5"
+         r="1"
+         fill="white"
+         id="circle43" />
+      <circle
+         cx="14"
+         cy="5"
+         r="1"
+         fill="white"
+         id="circle44" />
+      <circle
+         cx="6"
+         cy="8"
+         r="1"
+         fill="white"
+         id="circle45" />
+      <circle
+         cx="10"
+         cy="8"
+         r="1"
+         fill="white"
+         id="circle46" />
+      <circle
+         cx="14"
+         cy="8"
+         r="1"
+         fill="white"
+         id="circle47" />
+      <circle
+         cx="6"
+         cy="11"
+         r="1"
+         fill="white"
+         id="circle48" />
+      <circle
+         cx="10"
+         cy="11"
+         r="1"
+         fill="white"
+         id="circle49" />
+      <circle
+         cx="14"
+         cy="11"
+         r="1"
+         fill="white"
+         id="circle50" />
+      <text
+         x="10"
+         y="26"
+         font-family="system-ui, sans-serif"
+         font-size="10"
+         fill="#9CA3AF"
+         text-anchor="middle"
+         id="text50">その他</text>
+    </g>
+  </g>
+</svg>
